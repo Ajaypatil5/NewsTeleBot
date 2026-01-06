@@ -1,0 +1,13 @@
+node_modules
+/coverage
+/test/temp
+/build
+/dist
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+.env
+
+/src/generated/prisma
+
+/generated/prisma
